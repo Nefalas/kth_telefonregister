@@ -1,5 +1,5 @@
 from person import Person
-from common import print_header, print_person
+from common import print_header
 
 
 def format_line(line):
